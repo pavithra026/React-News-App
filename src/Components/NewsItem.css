@@ -1,0 +1,22 @@
+.card-title{
+    font-size: 16px;
+}
+.card-text{
+    font-size: 13px;
+}
+.card {
+    height: 460px; /* Adjust the height as needed */
+  }
+.day{
+    font-size: small;
+    color: #7e7e7e;
+}
+.card-bottom{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    bottom: 10px;
+    width: 90%;
+    justify-content: space-between;
+    
+}
