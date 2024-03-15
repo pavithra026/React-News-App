@@ -8,12 +8,10 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
+Website Live @ https://news-app-pavithra.netlify.app/
 
+<br />
 
-<img width="959" alt="image" src="https://github.com/pavithra026/React-News-App/assets/83458034/99f20f2b-e7e4-4972-82c3-d8c3f6f45a46">
-<br>
-<br>
-<img width="905" alt="image" src="https://github.com/pavithra026/React-News-App/assets/83458034/a3a21bad-9f94-4cca-a411-3682d8163501">
-<br><br>
-<img width="958" alt="image" src="https://github.com/pavithra026/React-News-App/assets/83458034/9b1c7b9e-d80d-42a0-9a67-8d1b5331fd45">
+<img width="907" alt="image" src="https://github.com/pavithra026/React-News-App/assets/83458034/0c26f512-b787-4a77-981c-f076cfbc1fc3">
+
 
